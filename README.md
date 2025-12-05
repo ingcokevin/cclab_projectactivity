@@ -1,0 +1,1 @@
+This is a p5.js activity that focuses on loops. Using a while loop and a for loop, a set of rotating, randomly-colored shapes rotate on the screen. By also lowering the framerate, the resulting effect is reminiscent of traditional animation. 
